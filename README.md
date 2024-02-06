@@ -1,0 +1,2 @@
+# MINIMO
+about web page
